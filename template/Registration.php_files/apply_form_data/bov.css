@@ -1,0 +1,88 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #74064c; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #dbdbdb; SCROLLBAR-SHADOW-COLOR: #dbdbdb; SCROLLBAR-3DLIGHT-COLOR: white; SCROLLBAR-ARROW-COLOR: white; SCROLLBAR-TRACK-COLOR: white; BACKGROUND-REPEAT: repeat-x; SCROLLBAR-DARKSHADOW-COLOR: white; BACKGROUND-COLOR: white
+}
+
+TD {
+	FONT-SIZE: 60%; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	COLOR: #7b0056; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ae007a; TEXT-DECORATION: none
+}
+.bottom {
+	FONT-SIZE: 75%; COLOR: #505050; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bottom:hover {
+	FONT-SIZE: 75%; COLOR: #919191; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.fields {
+	BORDER-RIGHT: #c4c4c4 1px solid; BACKGROUND-POSITION: 50% top; BACKGROUND-COLOR: #f1f1f1; BORDER-TOP: #c4c4c4 1px solid; FONT-SIZE: 100%; BORDER-LEFT: #c4c4c4 1px solid; COLOR: #000000; BORDER-BOTTOM: #c4c4c4 1px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.menu1 {
+	BORDER-BOTTOM: #c4c4c4 1px dotted;
+}	
+.winelinks {
+	COLOR: #e8e8e8; TEXT-DECORATION: none
+}
+.load{background:url('load.gif') no-repeat center;}
+
+.winelinks:hover {
+	COLOR: #c5c5c5; TEXT-DECORATION: none
+}
+.menulevel1 {
+	COLOR: #2d2d2d
+}
+.menulevel2 {
+	COLOR: #565656
+}
+.menulevel3 {
+	COLOR: #7c7c7c
+}
+.menulevelhighlited {
+	FONT-WEIGHT: bold; COLOR: #500e3d
+}
+.content {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.dropdownbkg {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(../pics/dropdown_bkg.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #f6f6f6
+}
+.titlemain {
+	FONT-WEIGHT: bold; FONT-SIZE: 105%; COLOR: #500e3d; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+UL {
+	LIST-STYLE-IMAGE: url(../filebank/imagebank/icons/box_bordered.gif)
+}
+.marq {
+	FONT-SIZE: 100%; COLOR: white; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.buttontag {
+	BORDER-RIGHT: #c4c4c4 1px solid; BORDER-TOP: #c4c4c4 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; BORDER-LEFT: #c4c4c4 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #c4c4c4 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #666666
+}
+.size14 {
+	FONT-SIZE: 20px
+}
+.size10 {
+	FONT-SIZE: 9px
+}
+.buttons {
+	BORDER-RIGHT: #3a0326 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #f87cca 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 3px; BORDER-LEFT: #d20b88 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #510434 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #74064c; TEXT-ALIGN: center
+}
+H3 {
+	FONT-SIZE: 105%; MARGIN-BOTTOM: 0px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H4 {
+	FONT-SIZE: 105%; MARGIN-BOTTOM: 0px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H5 {
+	FONT-SIZE: 105%; MARGIN-BOTTOM: 0px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-BOTTOM: 0px; COLOR: #500e3d; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-SIZE: 105%; MARGIN-BOTTOM: 0px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
